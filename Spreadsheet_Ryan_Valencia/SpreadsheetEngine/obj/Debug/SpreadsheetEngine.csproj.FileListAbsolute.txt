@@ -1,0 +1,6 @@
+C:\Users\rvins\cs321\Spreadsheet_Ryan_Valencia\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojAssemblyReference.cache
+C:\Users\rvins\cs321\Spreadsheet_Ryan_Valencia\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\rvins\cs321\Spreadsheet_Ryan_Valencia\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+C:\Users\rvins\cs321\Spreadsheet_Ryan_Valencia\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\rvins\cs321\Spreadsheet_Ryan_Valencia\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+C:\Users\rvins\cs321\Spreadsheet_Ryan_Valencia\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
